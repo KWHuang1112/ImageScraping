@@ -12,8 +12,7 @@ def clean_filename(filename):
     return cleaned_filename
 
 # 目標URL
-#url = 'http://example.com'
-url ='https://18h.mm-cg.com/zh/#18H_content/8121/content.html'
+url = 'http://example.com'
 
 # 發送HTTP請求
 response = requests.get(url)
