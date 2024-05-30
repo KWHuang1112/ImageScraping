@@ -21,7 +21,7 @@ def download_images(image_links):
 
 # 生成圖片下載表列
 
-base_url = "hhttps://hbhost2.imgstream2.com/file/12133/12133_"
+base_url = "hhttps://cc.fun8.us//2e5fc/8223/098/"
 image_links = [f"{base_url}{str(i).zfill(3)}.jpg" for i in range(1, 50)]
 
 # 下載圖片
